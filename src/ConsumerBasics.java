@@ -12,7 +12,7 @@ Consumer have two methods
 
  */
 public class ConsumerBasics {
-    Predicate
+
     static Consumer<String> consumer=(n)->
     {
         System.out.println(n);
